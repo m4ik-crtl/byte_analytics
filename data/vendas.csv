@@ -1,0 +1,192 @@
+ID_CLIENTE,Produto,Quantidade,Preco_Unitario
+1054,Mouse Gamer Log,10,150.00
+1230,Teclado Mecanico,5,350.00
+1002,Monitor 24pol,2,1200.00
+1450,Mouse Gamer Log,5,150.00
+1120,Cabo HDMI,20,25.00
+1305,Headset RGB,8,200.00
+1099,Mousepad XXL,15,80.00
+1401,SSD 1TB,3,400.00
+1222,Memoria RAM 16GB,4,300.00
+1010,Webcam HD,1,180.00
+1085,Cadeira Gamer,1,850.00
+1333,Monitor 24pol,1,1200.00
+1155,Cabo HDMI,10,25.00
+1044,Mouse Gamer Log,2,150.00
+1290,Teclado Mecanico,1,350.00
+1076,Headset RGB,5,200.00
+1005,Mousepad XXL,10,80.00
+1444,SSD 1TB,2,400.00
+1198,Memoria RAM 16GB,8,300.00
+1350,Webcam HD,2,180.00
+1025,Cadeira Gamer,1,850.00
+1410,Mouse Gamer Log,4,150.00
+1111,Teclado Mecanico,3,350.00
+1265,Monitor 24pol,2,1200.00
+1380,Cabo HDMI,5,25.00
+1030,Headset RGB,1,200.00
+1499,Mousepad XXL,2,80.00
+1140,SSD 1TB,5,400.00
+1205,Memoria RAM 16GB,2,300.00
+1315,Webcam HD,3,180.00
+1060,Cadeira Gamer,1,850.00
+1475,Mouse Gamer Log,7,150.00
+1255,Teclado Mecanico,2,350.00
+1015,Monitor 24pol,3,1200.00
+1395,Cabo HDMI,15,25.00
+1170,Headset RGB,4,200.00
+1430,Mousepad XXL,20,80.00
+1210,SSD 1TB,1,400.00
+1090,Memoria RAM 16GB,6,300.00
+1365,Webcam HD,1,180.00
+1105,Cadeira Gamer,2,850.00
+1480,Mouse Gamer Log,1,150.00
+1270,Teclado Mecanico,4,350.00
+1040,Monitor 24pol,1,1200.00
+1420,Cabo HDMI,8,25.00
+1185,Headset RGB,3,200.00
+1325,Mousepad XXL,5,80.00
+1050,SSD 1TB,2,400.00
+1460,Memoria RAM 16GB,4,300.00
+1240,Webcam HD,2,180.00
+1135,Cadeira Gamer,1,850.00
+1370,Mouse Gamer Log,6,150.00
+1020,Teclado Mecanico,2,350.00
+1495,Monitor 24pol,2,1200.00
+1285,Cabo HDMI,12,25.00
+1065,Headset RGB,5,200.00
+1405,Mousepad XXL,10,80.00
+1160,SSD 1TB,3,400.00
+1340,Memoria RAM 16GB,2,300.00
+1080,Webcam HD,1,180.00
+1215,Cadeira Gamer,1,850.00
+1455,Mouse Gamer Log,9,150.00
+1125,Teclado Mecanico,3,350.00
+1300,Monitor 24pol,1,1200.00
+1035,Cabo HDMI,30,25.00
+1425,Headset RGB,2,200.00
+1190,Mousepad XXL,8,80.00
+1355,SSD 1TB,4,400.00
+1070,Memoria RAM 16GB,2,300.00
+1485,Webcam HD,2,180.00
+1250,Cadeira Gamer,1,850.00
+1115,Mouse Gamer Log,3,150.00
+1385,Teclado Mecanico,1,350.00
+1008,Monitor 24pol,1,1200.00
+1440,Cabo HDMI,10,25.00
+1220,Headset RGB,6,200.00
+1095,Mousepad XXL,12,80.00
+1330,SSD 1TB,2,400.00
+1150,Memoria RAM 16GB,4,300.00
+1465,Webcam HD,1,180.00
+1275,Cadeira Gamer,1,850.00
+1048,Mouse Gamer Log,5,150.00
+1415,Teclado Mecanico,2,350.00
+1180,Monitor 24pol,3,1200.00
+1310,Cabo HDMI,4,25.00
+1058,Headset RGB,2,200.00
+1435,Mousepad XXL,6,80.00
+1235,SSD 1TB,1,400.00
+1390,Memoria RAM 16GB,2,300.00
+1018,Webcam HD,1,180.00
+1490,Cadeira Gamer,2,850.00
+1165,Mouse Gamer Log,8,150.00
+1345,Teclado Mecanico,1,350.00
+1075,Monitor 24pol,2,1200.00
+1260,Cabo HDMI,20,25.00
+1470,Headset RGB,3,200.00
+1200,Mousepad XXL,4,80.00
+1375,SSD 1TB,5,400.00
+1145,Memoria RAM 16GB,8,300.00
+1212,SSD 1TB,1,400.00
+1054,Cabo HDMI,5,25.00
+1333,Mouse Gamer Log,2,150.00
+1189,Teclado Mecanico,1,350.00
+1402,Monitor 24pol,1,1200.00
+1022,Headset RGB,3,200.00
+1255,Mousepad XXL,4,80.00
+1110,Webcam HD,2,180.00
+1456,Cadeira Gamer,1,850.00
+1098,Memoria RAM 16GB,2,300.00
+1375,SSD 1TB,3,400.00
+1221,Cabo HDMI,10,25.00
+1045,Mouse Gamer Log,1,150.00
+1488,Teclado Mecanico,2,350.00
+1301,Monitor 24pol,2,1200.00
+1165,Headset RGB,1,200.00
+1005,Mousepad XXL,8,80.00
+1420,Webcam HD,1,180.00
+1285,Cadeira Gamer,1,850.00
+1133,Memoria RAM 16GB,4,300.00
+1350,SSD 1TB,1,400.00
+1070,Cabo HDMI,2,25.00
+1499,Mouse Gamer Log,5,150.00
+1205,Teclado Mecanico,1,350.00
+1033,Monitor 24pol,1,1200.00
+1444,Headset RGB,2,200.00
+1290,Mousepad XXL,3,80.00
+1155,Webcam HD,1,180.00
+1011,Cadeira Gamer,1,850.00
+1390,Memoria RAM 16GB,2,300.00
+1260,SSD 1TB,2,400.00
+1088,Cabo HDMI,15,25.00
+1465,Mouse Gamer Log,3,150.00
+1325,Teclado Mecanico,1,350.00
+1195,Monitor 24pol,3,1200.00
+1060,Headset RGB,4,200.00
+1415,Mousepad XXL,6,80.00
+1240,Webcam HD,1,180.00
+1100,Cadeira Gamer,2,850.00
+1360,Memoria RAM 16GB,4,300.00
+1054,SSD 1TB,1,400.00
+1435,Cabo HDMI,8,25.00
+1275,Mouse Gamer Log,2,150.00
+1120,Teclado Mecanico,2,350.00
+1385,Monitor 24pol,1,1200.00
+1030,Headset RGB,1,200.00
+1470,Mousepad XXL,10,80.00
+1230,Webcam HD,1,180.00
+1095,Cadeira Gamer,1,850.00
+1345,Memoria RAM 16GB,8,300.00
+1175,SSD 1TB,2,400.00
+1015,Cabo HDMI,20,25.00
+1450,Mouse Gamer Log,4,150.00
+1280,Teclado Mecanico,3,350.00
+1140,Monitor 24pol,1,1200.00
+1310,Headset RGB,2,200.00
+1040,Mousepad XXL,5,80.00
+1495,Webcam HD,1,180.00
+1215,Cadeira Gamer,1,850.00
+1075,Memoria RAM 16GB,2,300.00
+1333,SSD 1TB,1,400.00
+1160,Cabo HDMI,3,25.00
+1405,Mouse Gamer Log,6,150.00
+1250,Teclado Mecanico,1,350.00
+1105,Monitor 24pol,2,1200.00
+1370,Headset RGB,5,200.00
+1025,Mousepad XXL,2,80.00
+1425,Webcam HD,2,180.00
+1295,Cadeira Gamer,1,850.00
+1150,Memoria RAM 16GB,4,300.00
+1002,SSD 1TB,2,400.00
+1460,Cabo HDMI,12,25.00
+1222,Mouse Gamer Log,1,150.00
+1085,Teclado Mecanico,1,350.00
+1355,Monitor 24pol,1,1200.00
+1190,Headset RGB,2,200.00
+1410,Mousepad XXL,15,80.00
+1065,Webcam HD,3,180.00
+1235,Cadeira Gamer,1,850.00
+1320,Memoria RAM 16GB,2,300.00
+1180,SSD 1TB,1,400.00
+1050,Cabo HDMI,6,25.00
+1480,Mouse Gamer Log,2,150.00
+1265,Teclado Mecanico,4,350.00
+1125,Monitor 24pol,1,1200.00
+1395,Headset RGB,1,200.00
+1020,Mousepad XXL,7,80.00
+1440,Webcam HD,1,180.00
+1305,Cadeira Gamer,1,850.00
+1135,Memoria RAM 16GB,2,300.00
+1490,SSD 1TB,3,400.00
+1200,Cabo HDMI,4,25.00

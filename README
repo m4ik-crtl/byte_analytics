@@ -1,0 +1,29 @@
+# 📊 ByteShop Analytics
+
+> Script de automação para análise exploratória de vendas e geração de relatórios gerenciais via CLI.
+
+## 📝 Sobre o Projeto
+A **ByteShop**, uma startup de eletrônicos, necessitava otimizar a visualização de suas vendas diárias. Este projeto consiste em uma ferramenta desenvolvida em **Python** que processa grandes volumes de dados de vendas (CSV), realiza limpeza de dados, *feature engineering* e cálculos estatísticos para entregar insights rápidos à equipe de marketing.
+
+## 🚀 Funcionalidades
+O script processa o arquivo de entrada e gera as seguintes métricas no console:
+* **KPIs Gerais:** Faturamento Total e Total de Itens Vendidos.
+* **Ranking de Produtos:** Top 5 produtos mais vendidos (por quantidade).
+* **Análise de Cliente:** Identificação do cliente com maior volume de compra (Top Cliente).
+* **Ticket Médio (ARPU):** Cálculo do valor médio gasto por cliente único.
+
+## 🛠️ Tecnologias Utilizadas
+* **Python 3.x**
+* **Pandas** (Manipulação e Análise de Dados)
+* **Argparse** (Interface de Linha de Comando)
+
+## 📂 Estrutura do Projeto
+```text
+byteshop_analytics/
+│
+├── data/
+│   └── vendas.csv        # Arquivo de dados (entrada)
+├── src/
+│   └── main.py           # Script principal de processamento
+├── requirements.txt      # Dependências do projeto
+└── README.md             # Documentação
