@@ -92,10 +92,6 @@ python src/main.py "C:\Caminho\Para\Seu\Arquivo.csv"
 
 ---
 
-## 📤 Exportar para Planilhas
-
-*(Adicione aqui instruções se seu script gerar output em Excel/CSV.)*
-
 ---
 
 ## 👨‍💻 Autor
